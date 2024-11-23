@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CF</string>
+    <string name="Fund_rise">click to Fund_rise</string>
+    <string name="Donate">click to Donate</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="category_array">
+        <item>Medical</item>
+        <item>Educational</item>
+        <item>Emergency</item>
+        <item>Charity</item>
+    </string-array>
+</resources>

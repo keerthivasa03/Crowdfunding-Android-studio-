@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478032992517",
+    "project_id": "logincf-dbf09",
+    "storage_bucket": "logincf-dbf09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478032992517:android:f9180e9144e64b6b65bf6c",
+        "android_client_info": {
+          "package_name": "com.example.cf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1GR34kYccTZFu2mfCdhvwGM4nHJJdnRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

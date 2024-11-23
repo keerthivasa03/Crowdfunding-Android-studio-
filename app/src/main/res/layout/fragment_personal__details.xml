@@ -1,0 +1,83 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/primary">
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_margin="16dp"
+        android:hint="Name"
+        android:background="@drawable/rounded_edittext"
+        android:textColor="@color/black"
+        android:paddingStart="16dp"
+        />
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:hint="Email"
+        android:layout_margin="16dp"
+        android:background="@drawable/rounded_edittext"
+        android:textColor="@color/black"
+        android:paddingStart="16dp"
+        />
+
+    <EditText
+        android:id="@+id/etPhone"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:hint="Phone"
+        android:layout_margin="16dp"
+        android:background="@drawable/rounded_edittext"
+        android:textColor="@color/black"
+        android:paddingStart="16dp"
+        />
+
+    <EditText
+        android:id="@+id/etAddress"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:hint="Address"
+        android:layout_margin="16dp"
+        android:background="@drawable/rounded_edittext"
+        android:textColor="@color/black"
+        android:paddingStart="16dp"
+        />
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteState"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:hint="State"
+        android:layout_margin="16dp"
+        android:background="@drawable/rounded_edittext"
+        android:textColor="@color/black"
+        android:paddingStart="16dp"
+        />
+
+    <EditText
+        android:id="@+id/etPincode"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:hint="Pincode"
+        android:layout_margin="16dp"
+        android:background="@drawable/rounded_edittext"
+        android:textColor="@color/black"
+        android:paddingStart="16dp"
+        />
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Next"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_button"/>
+</LinearLayout>
